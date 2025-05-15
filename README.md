@@ -1,2 +1,10 @@
-# refactored-barnacle
-ML-based study finds high work zone risks in Sri Lanka; calls for safer standards and data-driven action.
+To run the models, 
+1. Install the requirements
+```commandline
+pip install requirements.txt
+```
+
+2. run the following command to start the Streamlit app
+````commandline
+streamlit run app.py
+````
